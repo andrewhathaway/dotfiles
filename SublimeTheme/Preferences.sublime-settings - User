@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_size": 14,
+	"font_face": "Consolas",
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
+
