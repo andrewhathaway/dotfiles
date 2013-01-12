@@ -1,5 +1,5 @@
-##Might as well?
+##Keep track of my dotfiles and Sublime stuff here
 
-Just stuff.
+Helps I guess.
 
-@andrewhathaway
+[@andrewhathaway](http://andrewhathaway.net)
